@@ -1,0 +1,13 @@
+{
+  "name": "trend-tech-task",
+  "version": "1.0.0",
+  "description": "You can transform number array into string with this module",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Nikandrov",
+  "license": "ISC"
+}
